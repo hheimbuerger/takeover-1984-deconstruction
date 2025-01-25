@@ -6,6 +6,10 @@ An analysis/reformatting (for readability) of the BASIC source code of the 1984 
 
 [GB64: Takeover (1984)](https://gb64.com/game.php?id=16144)
 
+## Recommended approach
+
+Open [the final reformatting](3.%20annotated%20GOSUBs%20and%20GOTOs.bas) and read what you're interested in, while having [the variable table](variable_table.md) in another window on the side.
+
 ## Process
 
 Most of the analysis and reformatting has been performed by GitHub Copilot (GPT-4o).
